@@ -147,6 +147,11 @@ body {
     align-self: center;
     padding: 2px;
 }
+.filtersContainer {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
 .filterTitle {
     margin-left: 15px;
     width: max-content;
@@ -458,6 +463,11 @@ a {
     .activities-cards img {
         height: 200px;
         width: 193.5px;
+    }
+    .filtersContainer {
+        flex-direction: column;
+        align-items: normal;
+        gap: unset;
     }
 }
 /* Small devices (phones, less than 768px) */
