@@ -149,6 +149,7 @@ body {
 }
 .filterTitle {
     margin-left: 15px;
+    width: max-content;
 }
 .filter:hover {
     background-color: #DEEBFF;
@@ -169,6 +170,7 @@ a {
 .section-title {
     margin: 0;
     font-size: 22px;
+    width: max-content;
 }
 
 .card {
@@ -399,6 +401,7 @@ a {
 }
 .footer-link {
     margin-top: 20px;
+    width: max-content;
 }
 .footer-link a {
     font-family: Raleway;
