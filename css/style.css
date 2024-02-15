@@ -26,6 +26,7 @@ body {
 .navBar {
     /*padding: 30px 50px;*/
     display: flex;
+    justify-content: space-between;
 }
 .navLogo {
     margin: 30px 0px 30px 0px;
@@ -33,9 +34,6 @@ body {
 .navLogo {
     width: 61.09px;
     height: 19px;
-}
-.middleNav {
-    width: 870px;
 }
 .rightNav {
     padding-top: 15px;
