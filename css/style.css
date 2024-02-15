@@ -103,6 +103,11 @@ body {
     display: none;
 }
 /* Filters */
+.filtersContainer {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+}
 .filters {
     display: flex;
     gap: 20px;
@@ -475,6 +480,9 @@ a {
     .activities-cards img {
         height: 200px;
         width: 193.5px;
+    }
+    .filtersContainer {
+        flex-direction: column;
     }
 }
 /* Small devices (phones, less than 768px) */
