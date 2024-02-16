@@ -241,6 +241,7 @@ a {
 .hebergements-cards .card {
     margin-top: 33px;
     height: 207.25px;
+    width: 100%;
 }
 
 .hebergements-cards img {
@@ -577,3 +578,4 @@ a {
         margin-top: 50px;
     }
 }
+
