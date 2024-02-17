@@ -42,8 +42,7 @@ body {
     padding-top: 13px;
     margin-left: 68px;
 }
-.rightNav a:hover,
-.navBar .active {
+.rightNav a:hover {
     color: #0065FC;
     border-top: 2px solid #0065FC;
 }
@@ -554,8 +553,7 @@ a {
         padding: 15px;
         width: 100%;
     }
-    .rightNav a:hover,
-    .navBar .active {
+    .rightNav a:hover {
         border-top: unset;
         border-bottom: 2px solid #0065FC;
     }
@@ -578,4 +576,3 @@ a {
         margin-top: 50px;
     }
 }
-
